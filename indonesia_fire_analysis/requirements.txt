@@ -1,0 +1,35 @@
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+xarray>=0.19.0
+dask>=2021.6.0
+
+# Geospatial libraries
+geopandas>=0.9.0
+rasterio>=1.2.0
+fiona>=1.8.0
+shapely>=1.7.0
+pyproj>=3.0.0
+cartopy>=0.19.0
+
+# Satellite data access
+earthengine-api>=0.1.300
+pyhdf>=0.10.0
+netCDF4>=1.5.0
+h5py>=3.1.0
+
+# NASA data access
+requests>=2.25.0
+urllib3>=1.26.0
+lxml>=4.6.0
+
+# Data processing and visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+folium>=0.12.0
+
+# Utilities
+tqdm>=4.60.0
+python-dotenv>=0.19.0
+pyyaml>=5.4.0

@@ -1,0 +1,26 @@
+Indonesia Fire Analysis - Demo Results
+========================================
+
+Analysis Date: 2025-08-14 14:32:55
+Demo Mode: Sample data generation
+
+Dataset Summary:
+- Districts analyzed: 5
+- Provinces covered: 5
+- Total area: 3,867.3 km²
+
+Fire Activity:
+- MODIS fires: 2,134
+- VIIRS fires: 3,332
+- Total fires: 5,466
+- Mean fire density: 4.024 fires/km²
+
+CO Analysis:
+- Mean concentration: 271.0 ppbv
+- Max concentration: 376.7 ppbv
+- Standard deviation: 88.3 ppbv
+
+Top Fire Districts:
+- Pekanbaru: 2,005 fires
+- Palangka Raya: 1,295 fires
+- Pontianak: 1,286 fires

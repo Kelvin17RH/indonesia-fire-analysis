@@ -1,0 +1,78 @@
+year,district_id,district_name,province_name,area_km2,latitude,longitude,fire_density_per_km2,fire_count_modis,fire_count_viirs,total_fires,total_frp_modis_mw,total_frp_viirs_mw,total_frp_all_mw,mean_frp_modis_mw,mean_frp_viirs_mw,high_confidence_fires_modis,high_confidence_fires_viirs,co_concentration_ppbv,co_enhancement_factor,fire_season_intensity,co_pollution_level
+2010,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.0292,44,72,116,47.95,1665.86,1713.81,1.09,23.14,34,60,153.6,1.02,Moderate,Elevated
+2011,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.1079,164,265,429,839.26,1295.19,2134.45,5.12,4.89,127,212,217.3,1.45,Moderate,Elevated
+2012,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.096,158,224,382,276.38,333.33,609.71,1.75,1.49,122,198,134.3,0.9,Moderate,Background
+2013,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.0955,154,226,380,345.76,2016.09,2361.85,2.25,8.92,99,196,152.5,1.02,Moderate,Elevated
+2014,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.0732,106,185,291,742.2,297.89,1040.09,7.0,1.61,69,136,141.6,0.94,Moderate,Background
+2015,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.1705,244,434,678,415.17,1077.71,1492.88,1.7,2.48,175,374,517.9,3.45,High,Severe
+2016,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.0304,44,77,121,70.48,24.87,95.36,1.6,0.32,29,67,151.6,1.01,Moderate,Elevated
+2017,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.1189,175,298,473,1954.39,1047.58,3001.97,11.17,3.52,110,266,209.5,1.4,Moderate,Elevated
+2018,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.0943,156,219,375,2105.26,858.96,2964.22,13.5,3.92,94,167,182.4,1.22,Moderate,Elevated
+2019,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.2104,375,462,837,2415.63,4354.92,6770.55,6.44,9.43,291,338,222.9,1.49,High,Elevated
+2020,94,Pangkalpinang,Kepulauan Bangka Belitung,3977.46,5.1729,137.4259,0.1041,163,251,414,1706.97,1985.43,3692.4,10.47,7.91,111,184,116.3,0.78,Moderate,Background
+2010,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0379,78,107,185,188.43,599.37,787.8,2.42,5.6,59,75,72.0,0.48,Moderate,Background
+2011,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0747,152,212,364,1348.99,402.66,1751.65,8.87,1.9,92,182,140.5,0.94,Moderate,Background
+2012,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0894,167,269,436,376.03,2929.51,3305.55,2.25,10.89,121,200,272.5,1.82,Moderate,High
+2013,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0722,147,205,352,820.31,664.39,1484.7,5.58,3.24,105,184,89.3,0.6,Moderate,Background
+2014,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0572,108,171,279,404.76,2034.84,2439.59,3.75,11.9,85,134,249.1,1.66,Moderate,Elevated
+2015,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.1614,328,459,787,3121.78,3699.11,6820.89,9.52,8.06,217,382,255.3,1.7,High,High
+2016,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0371,68,113,181,111.18,273.58,384.77,1.64,2.42,50,92,144.7,0.96,Moderate,Background
+2017,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0802,172,219,391,1145.39,484.61,1630.0,6.66,2.21,116,184,236.4,1.58,Moderate,Elevated
+2018,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0905,152,289,441,710.93,2667.76,3378.69,4.68,9.23,110,236,163.8,1.09,Moderate,Elevated
+2019,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.17,334,495,829,1883.22,1951.02,3834.24,5.64,3.94,261,377,333.4,2.22,High,High
+2020,95,Bangka,Kepulauan Bangka Belitung,4875.44,-7.7699,110.1575,0.0804,180,212,392,2957.41,419.28,3376.69,16.43,1.98,119,152,235.6,1.57,Moderate,Elevated
+2010,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.3287,59,87,146,329.96,348.81,678.77,5.59,4.01,36,70,170.3,1.14,Moderate,Elevated
+2011,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.7609,135,203,338,731.96,577.62,1309.58,5.42,2.85,100,150,71.0,0.47,Moderate,Background
+2012,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.8847,163,230,393,353.45,532.25,885.7,2.17,2.31,128,174,284.3,1.9,Moderate,High
+2013,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.8555,156,224,380,433.42,1983.93,2417.35,2.78,8.86,119,194,84.4,0.56,Moderate,Background
+2014,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.8419,159,215,374,1193.73,488.31,1682.04,7.51,2.27,113,187,220.7,1.47,Moderate,Elevated
+2015,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,1.9991,355,533,888,3007.3,1540.07,4547.37,8.47,2.89,279,393,365.0,2.43,High,High
+2016,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.3917,67,107,174,641.32,134.54,775.87,9.57,1.26,46,85,123.8,0.83,Moderate,Background
+2017,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.7226,132,189,321,860.05,298.92,1158.97,6.52,1.58,81,162,194.7,1.3,Moderate,Elevated
+2018,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.7542,152,183,335,2013.99,907.27,2921.26,13.25,4.96,108,130,251.4,1.68,Moderate,High
+2019,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,1.8798,377,458,835,1624.92,2053.71,3678.63,4.31,4.48,238,335,287.3,1.92,High,High
+2020,96,Bangka Barat,Kepulauan Bangka Belitung,444.21,-0.4702,102.8671,0.7587,150,187,337,595.9,787.71,1383.61,3.97,4.21,107,148,309.9,2.07,Moderate,High
+2010,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.0811,76,123,199,769.6,404.18,1173.78,10.13,3.29,59,90,100.5,0.67,Moderate,Background
+2011,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1116,106,168,274,5403.47,170.95,5574.42,50.98,1.02,84,145,181.3,1.21,Moderate,Elevated
+2012,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1446,147,208,355,1020.86,1324.24,2345.1,6.94,6.37,91,146,219.0,1.46,Moderate,Elevated
+2013,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1565,143,241,384,1176.05,1138.57,2314.61,8.22,4.72,91,213,128.5,0.86,Moderate,Background
+2014,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1357,145,188,333,752.41,202.9,955.3,5.19,1.08,105,147,257.9,1.72,Moderate,High
+2015,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.2392,223,364,587,601.05,1199.35,1800.39,2.7,3.29,148,310,473.0,3.15,High,Severe
+2016,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.0966,96,141,237,1549.27,953.24,2502.51,16.14,6.76,76,123,206.7,1.38,Moderate,Elevated
+2017,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1332,123,204,327,301.0,113.37,414.37,2.45,0.56,81,174,249.1,1.66,Moderate,Elevated
+2018,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.13,134,185,319,502.91,765.99,1268.9,3.75,4.14,89,161,181.7,1.21,Moderate,Elevated
+2019,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.3826,414,525,939,948.83,1420.56,2369.39,2.29,2.71,319,449,212.8,1.42,High,Elevated
+2020,97,Bangka Selatan,Kepulauan Bangka Belitung,2454.2,1.1857,102.6459,0.1748,185,244,429,326.01,2001.65,2327.67,1.76,8.2,130,198,195.5,1.3,Moderate,Elevated
+2010,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.484,91,149,240,3455.44,255.42,3710.86,37.97,1.71,64,106,91.2,0.61,Moderate,Background
+2011,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.6413,136,182,318,1033.54,724.01,1757.56,7.6,3.98,94,150,301.0,2.01,Moderate,High
+2012,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.7058,151,199,350,2880.07,1388.45,4268.52,19.07,6.98,108,149,250.7,1.67,Moderate,High
+2013,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.6756,121,214,335,1224.0,596.48,1820.49,10.12,2.79,95,169,132.8,0.89,Moderate,Background
+2014,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.9035,178,270,448,78.09,413.81,491.9,0.44,1.53,126,197,210.0,1.4,Moderate,Elevated
+2015,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,2.0449,328,686,1014,491.32,6221.64,6712.96,1.5,9.07,203,562,191.9,1.28,Extreme,Elevated
+2016,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.3287,64,99,163,985.9,660.56,1646.46,15.4,6.67,39,73,163.1,1.09,Moderate,Elevated
+2017,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.6453,123,197,320,414.25,2566.08,2980.33,3.37,13.03,94,159,76.4,0.51,Moderate,Background
+2018,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.8087,147,254,401,1035.9,257.28,1293.18,7.05,1.01,96,211,227.8,1.52,Moderate,Elevated
+2019,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,1.204,246,351,597,239.67,702.58,942.25,0.97,2.0,192,254,402.5,2.68,High,Severe
+2020,98,Bangka Tengah,Kepulauan Bangka Belitung,495.86,-4.5763,109.9482,0.8853,167,272,439,1680.85,2325.61,4006.45,10.06,8.55,109,213,214.4,1.43,Moderate,Elevated
+2010,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.0497,56,80,136,126.73,1304.36,1431.08,2.26,16.3,34,65,130.8,0.87,Moderate,Background
+2011,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1211,131,200,331,424.08,1096.38,1520.46,3.24,5.48,103,149,141.6,0.94,Moderate,Background
+2012,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1287,135,217,352,381.33,2399.43,2780.77,2.82,11.06,90,154,140.4,0.94,Moderate,Background
+2013,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1661,188,266,454,1049.35,3462.38,4511.74,5.58,13.02,150,201,183.7,1.22,Moderate,Elevated
+2014,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1437,159,234,393,1021.69,369.06,1390.75,6.43,1.58,126,169,238.4,1.59,Moderate,Elevated
+2015,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.2802,315,451,766,1291.84,1069.2,2361.04,4.1,2.37,210,324,430.3,2.87,High,Severe
+2016,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.0593,70,92,162,44.63,75.95,120.58,0.64,0.83,50,77,128.9,0.86,Moderate,Background
+2017,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1258,142,202,344,2004.54,1049.52,3054.06,14.12,5.2,99,170,188.4,1.26,Moderate,Elevated
+2018,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1569,185,244,429,1081.39,277.97,1359.36,5.85,1.14,121,195,161.8,1.08,Moderate,Elevated
+2019,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.2835,314,461,775,935.84,248.29,1184.13,2.98,0.54,237,334,248.9,1.66,High,Elevated
+2020,99,Belitung,Kepulauan Bangka Belitung,2734.0,-4.6281,133.2784,0.1331,148,216,364,254.72,545.82,800.54,1.72,2.53,116,165,105.9,0.71,Moderate,Background
+2010,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.0516,76,111,187,784.55,397.87,1182.42,10.32,3.58,49,81,162.4,1.08,Moderate,Elevated
+2011,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.0862,115,197,312,346.26,215.87,562.13,3.01,1.1,85,144,113.6,0.76,Moderate,Background
+2012,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.1284,198,267,465,297.25,632.77,930.02,1.5,2.37,135,224,244.5,1.63,Moderate,Elevated
+2013,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.1212,172,267,439,535.45,1262.44,1797.89,3.11,4.73,114,200,123.1,0.82,Moderate,Background
+2014,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.1218,194,247,441,1455.01,1033.54,2488.55,7.5,4.18,135,218,124.1,0.83,Moderate,Background
+2015,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.2861,454,582,1036,5287.04,920.59,6207.63,11.65,1.58,338,497,274.0,1.83,Extreme,High
+2016,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.0599,95,122,217,1488.45,558.93,2047.37,15.67,4.58,57,91,228.4,1.52,Moderate,Elevated
+2017,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.0994,155,205,360,855.37,782.41,1637.78,5.52,3.82,123,164,122.2,0.81,Moderate,Background
+2018,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.1066,138,248,386,938.58,1051.79,1990.37,6.8,4.24,99,222,226.9,1.51,Moderate,Elevated
+2019,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.2049,249,493,742,613.43,1193.6,1807.04,2.46,2.42,166,420,240.2,1.6,High,Elevated
+2020,100,Belitung Timur,Kepulauan Bangka Belitung,3620.98,-8.1868,129.5942,0.1107,155,246,401,2579.68,1172.18,3751.86,16.64,4.76,95,216,180.3,1.2,Moderate,Elevated

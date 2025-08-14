@@ -1,0 +1,65 @@
+# Indonesia Fire Analysis Configuration
+
+# Spatial boundaries
+spatial:
+  country: "Indonesia"
+  admin_level: "district"  # kabupaten/kota level
+  crs: "EPSG:4326"  # WGS84
+  buffer_km: 0  # No buffer for exact district boundaries
+
+# Temporal range
+temporal:
+  start_date: "2010-01-01"
+  end_date: "2020-12-31"
+  
+# Data sources
+data_sources:
+  # MODIS Active Fire (Terra/Aqua)
+  modis:
+    collections:
+      - "MCD14ML"  # MODIS/Aqua+Terra Thermal Anomalies/Fire locations
+      - "MOD14A1"  # MODIS/Terra Thermal Anomalies/Fire Daily L3 Global 1km
+      - "MYD14A1"  # MODIS/Aqua Thermal Anomalies/Fire Daily L3 Global 1km
+    variables:
+      - "fire_mask"
+      - "FirePix"
+      - "MaxFRP"  # Fire Radiative Power
+    
+  # VIIRS Active Fire (Suomi NPP)
+  viirs:
+    collections:
+      - "VNP14IMGML"  # VIIRS/NPP Thermal Anomalies/Fire Daily L3 Global 1km
+    variables:
+      - "fire_mask"
+      - "MaxFRP"
+    start_year: 2012  # VIIRS available from 2012
+    
+  # CO data (Carbon Monoxide)
+  co:
+    collections:
+      - "MOP02J"     # MOPITT CO Daily L2 Derived CO (Daytime/Descending)
+      - "AIRX3STD"   # AIRS/Aqua L3 Daily Standard Physical Retrieval
+    variables:
+      - "COVMRLevs"  # CO Volume Mixing Ratio
+      - "TotCO_A"    # Total Column CO
+
+# Processing parameters
+processing:
+  chunk_size: "1GB"
+  parallel_workers: 4
+  quality_flags:
+    confidence_threshold: 7  # MODIS confidence (0-9)
+    frp_threshold: 0        # Minimum FRP in MW
+  
+# Output settings
+output:
+  formats: ["csv", "geojson", "netcdf", "parquet"]
+  directory: "output"
+  temporal_aggregation: ["daily", "monthly", "yearly"]
+  
+# API endpoints and credentials
+apis:
+  nasa_earthdata: "https://ladsweb.modaps.eosdis.nasa.gov"
+  google_earth_engine: true
+  earthdata_username: null  # Set via environment variables
+  earthdata_password: null  # Set via environment variables

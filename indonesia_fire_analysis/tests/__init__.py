@@ -1,0 +1,1 @@
+# Tests for Indonesia Fire Analysis System

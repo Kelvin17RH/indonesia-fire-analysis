@@ -1,0 +1,46 @@
+Indonesia Fire Dataset 2010-2020 - Data Dictionary
+=======================================================
+
+Dataset Description:
+Annual fire activity and CO concentration data for Indonesian districts
+based on satellite observations from MODIS, VIIRS, MOPITT, and AIRS sensors.
+
+Variables:
+--------------------
+year: Analysis year (2010-2020)
+district_id: Unique district identifier
+district_name: District name (Kabupaten/Kota)
+province_name: Province name
+area_km2: District area in square kilometers
+latitude: District centroid latitude (WGS84)
+longitude: District centroid longitude (WGS84)
+fire_count_modis: Number of MODIS fire detections
+fire_count_viirs: Number of VIIRS fire detections
+total_fires: Combined fire count (MODIS + VIIRS)
+fire_density_per_km2: Fire density (fires per km²)
+total_frp_modis_mw: Total Fire Radiative Power from MODIS (MW)
+total_frp_viirs_mw: Total Fire Radiative Power from VIIRS (MW)
+total_frp_all_mw: Combined FRP from all sensors (MW)
+mean_frp_modis_mw: Mean FRP per MODIS fire (MW)
+mean_frp_viirs_mw: Mean FRP per VIIRS fire (MW)
+high_confidence_fires_modis: High confidence MODIS fires
+high_confidence_fires_viirs: High confidence VIIRS fires
+co_concentration_ppbv: Mean CO concentration (parts per billion by volume)
+co_enhancement_factor: CO enhancement relative to background
+fire_season_intensity: Categorical fire intensity (Low/Moderate/High/Extreme)
+co_pollution_level: Categorical CO level (Background/Elevated/High/Severe)
+
+Data Sources:
+---------------
+- MODIS (Terra/Aqua): Fire detection and FRP
+- VIIRS (Suomi NPP): High-resolution fire detection
+- MOPITT (Terra): Carbon monoxide measurements
+- AIRS (Aqua): Atmospheric CO retrievals
+
+Notes:
+--------
+- VIIRS data available from 2012 onwards
+- Fire activity varies significantly by region and climate patterns
+- El Niño years (2015, 2019) show enhanced fire activity
+- Peatland regions (Central Kalimantan, Riau) have highest fire activity
+- CO concentrations correlate with fire activity intensity

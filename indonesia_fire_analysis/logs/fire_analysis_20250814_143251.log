@@ -1,0 +1,8 @@
+2025-08-14 14:32:51 - utils.logger - INFO - Logging initialized. Log file: logs/fire_analysis_20250814_143251.log
+2025-08-14 14:32:51 - __main__ - INFO - Demo configuration created
+2025-08-14 14:32:51 - __main__ - INFO - Generated data for 5 districts
+2025-08-14 14:32:54 - pyogrio._io - INFO - Created 5 records
+2025-08-14 14:32:54 - visualization.fire_maps - INFO - Creating fire density map using total_fires_all_sensors
+2025-08-14 14:32:54 - visualization.fire_maps - INFO - Saved fire density map to output/visualizations/fire_density_map.html
+2025-08-14 14:32:54 - visualization.fire_maps - INFO - Creating CO concentration map using co_total_mean
+2025-08-14 14:32:54 - visualization.fire_maps - INFO - Saved CO concentration map to output/visualizations/co_concentration_map.html
